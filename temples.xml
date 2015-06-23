@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <temple statusCode="200" statusMessage="OK" version="1.7.20150306.1936" xmlns="http://api.familysearch.org/temple/v1" xmlns:fsapi-v1="http://api.familysearch.org/v1">
-  <temples count="149">
+  <temples count="150">
     <temple code="ABA">
       <name>Aba Nigeria Temple</name>
     </temple>
@@ -426,6 +426,9 @@
     </temple>
     <temple code="TORON" oldCode="TR">
       <name>Toronto Ontario Temple</name>
+    </temple>
+    <temple code="TRUJI">
+      <name>Trujillo Peru Temple</name>
     </temple>
     <temple code="TWINF">
       <name>Twin Falls Idaho Temple</name>
