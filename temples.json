@@ -247,6 +247,12 @@
         "requestedCode": null
       },
       {
+        "name": "Durban South Africa Temple",
+        "code": "DURBA",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
         "name": "Edmonton Alberta Temple",
         "code": "EDMON",
         "oldCode": null,
@@ -421,6 +427,12 @@
         "requestedCode": null
       },
       {
+        "name": "Kinshasa Democratic Republic of Congo Temple",
+        "code": "KINSH",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
         "name": "Kona Hawaii Temple",
         "code": "KONA",
         "oldCode": null,
@@ -538,6 +550,12 @@
         "name": "México City México Temple",
         "code": "MEXIC",
         "oldCode": "MX",
+        "requestedCode": null
+      },
+      {
+        "name": "Meridian Idaho",
+        "code": "MIDAH",
+        "oldCode": null,
         "requestedCode": null
       },
       {
@@ -667,6 +685,12 @@
         "requestedCode": null
       },
       {
+        "name": "Paris France Temple",
+        "code": "PARIS",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
         "name": "Payson Utah Temple",
         "code": "PAYSO",
         "oldCode": null,
@@ -679,20 +703,26 @@
         "requestedCode": null
       },
       {
-        "name": "Phoenix Arizona Temple",
-        "code": "PHOEN",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
         "name": "Philadelphia Pennsylvania Temple",
         "code": "PHILA",
         "oldCode": null,
         "requestedCode": null
       },
       {
+        "name": "Phoenix Arizona Temple",
+        "code": "PHOEN",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
         "name": "President's Office",
         "code": "POFFI",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
+        "name": "Port-Au-Prince Haitti Temple",
+        "code": "PORTA",
         "oldCode": null,
         "requestedCode": null
       },
@@ -705,6 +735,12 @@
       {
         "name": "Preston England Temple",
         "code": "PREST",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
+        "name": "Provo City Center",
+        "code": "PROCC",
         "oldCode": null,
         "requestedCode": null
       },
@@ -753,6 +789,12 @@
       {
         "name": "Rexburg Idaho Temple",
         "code": "REXBU",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
+        "name": "Rio De Janiero Temple",
+        "code": "RIODE",
         "oldCode": null,
         "requestedCode": null
       },
@@ -861,6 +903,12 @@
       {
         "name": "Spokane Washington Temple",
         "code": "SPOKA",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
+        "name": "Star Valley Wyoming Temple",
+        "code": "STARV",
         "oldCode": null,
         "requestedCode": null
       },
