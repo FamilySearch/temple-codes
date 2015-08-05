@@ -94,6 +94,9 @@
     <temple code="COLUM">
       <name>Columbus Ohio Temple</name>
     </temple>
+    <temple code="CONCE">
+      <name>Concepcion Chile Temple</name>
+    </temple>
     <temple code="COPEN">
       <name>Copenhagen Denmark Temple</name>
     </temple>
@@ -118,11 +121,20 @@
     <temple code="DRAPE">
       <name>Draper Utah Temple</name>
     </temple>
+    <temple code="DURBA">
+      <name>Durban South Africa Temple</name>
+    </temple>
     <temple code="EDMON">
       <name>Edmonton Alberta Temple</name>
     </temple>
     <temple code="EHOUS" oldCode="EH">
       <name>Endowment House</name>
+    </temple>
+    <temple code="FORTA">
+      <name>Fortaleza Brazil Temple</name>
+    </temple>
+    <temple code="FORTC">
+      <name>Fort Collins Colorado Temple</name>
     </temple>
     <temple code="FORTL">
       <name>Fort Lauderdale Florida Temple</name>
@@ -160,6 +172,12 @@
     <temple code="HALIF">
       <name>Halifax Nova Scotia Temple</name>
     </temple>
+    <temple code="HARRI">
+      <name>Harrison New York Temple</name>
+    </temple>
+    <temple code="HARTF">
+      <name>Hartford Connecticut Temple</name>
+    </temple>
     <temple code="HAWAI" oldCode="HA">
       <name>Laie Hawaii Temple</name>
     </temple>
@@ -190,17 +208,23 @@
     <temple code="KANSA">
       <name>Kansas City Missouri Temple</name>
     </temple>
+    <temple code="KIEV">
+      <name>Kiev Ukraine Temple</name>
+    </temple>
+    <temple code="KINSH">
+      <name>Kinshasa Democratic Republic of Congo Temple</name>
+    </temple>
     <temple code="KONA">
       <name>Kona Hawaii Temple</name>
-    </temple>
-    <temple code="KYIV">
-      <name>Kyiv Ukraine Temple</name>
     </temple>
     <temple code="LANGE" oldCode="LA">
       <name>Los Angeles California Temple</name>
     </temple>
     <temple code="LIMA" oldCode="LI">
       <name>Lima Peru Temple</name>
+    </temple>
+    <temple code="LISBO">
+      <name>Lisbon Portugal Temple</name>
     </temple>
     <temple code="LOGAN" oldCode="LG">
       <name>Logan Utah Temple</name>
@@ -246,6 +270,9 @@
     </temple>
     <temple code="MEXIC" oldCode="MX">
       <name>México City México Temple</name>
+    </temple>
+    <temple code="MIDAH">
+      <name>Meridian Idaho Temple</name>
     </temple>
     <temple code="MNTVD">
       <name>Montevideo Uruguay Temple</name>
@@ -310,8 +337,17 @@
     <temple code="PAPEE" oldCode="TA">
       <name>Papeete Tahiti Temple</name>
     </temple>
+    <temple code="PARIS">
+      <name>Paris France Temple</name>
+    </temple>
+    <temple code="PAYSO">
+      <name>Payson Utah Temple</name>
+    </temple>
     <temple code="PERTH">
       <name>Perth Australia Temple</name>
+    </temple>
+    <temple code="PHILA">
+      <name>Philadelphia Pennsylvania Temple</name>
     </temple>
     <temple code="PHOEN">
       <name>Phoenix Arizona Temple</name>
@@ -319,11 +355,17 @@
     <temple code="POFFI">
       <name>President's Office</name>
     </temple>
+    <temple code="PORTA">
+      <name>Port-Au-Prince Haitti Temple</name>
+    </temple>
     <temple code="PORTL" oldCode="PT">
       <name>Portland Oregon Temple</name>
     </temple>
     <temple code="PREST">
       <name>Preston England Temple</name>
+    </temple>
+    <temple code="PROCC">
+      <name>Provo City Center Temple</name>
     </temple>
     <temple code="PROVO" oldCode="PV">
       <name>Provo Utah Temple</name>
@@ -349,6 +391,12 @@
     <temple code="REXBU">
       <name>Rexburg Idaho Temple</name>
     </temple>
+    <temple code="RIODE">
+      <name>Rio De Janiero Temple</name>
+    </temple>
+    <temple code="ROMEI">
+      <name>Rome Italy Temple</name>
+    </temple>
     <temple code="SACRA">
       <name>Sacramento California Temple</name>
     </temple>
@@ -360,6 +408,9 @@
     </temple>
     <temple code="SANTO">
       <name>San Antonio Texas Temple</name>
+    </temple>
+    <temple code="SAPPO">
+      <name>Sapporo Japan Temple</name>
     </temple>
     <temple code="SDIEG" oldCode="SA">
       <name>San Diego California Temple</name>
@@ -397,6 +448,9 @@
     <temple code="SPOKA">
       <name>Spokane Washington Temple</name>
     </temple>
+    <temple code="STARV">
+      <name>Star Valley Wyoming Temple</name>
+    </temple>
     <temple code="STOCK" oldCode="ST">
       <name>Stockholm Sweden Temple</name>
     </temple>
@@ -421,6 +475,9 @@
     <temple code="TGUTI">
       <name>Tuxtla Gutiérrez México Temple</name>
     </temple>
+    <temple code="TIJUA">
+      <name>Tijuana Mexico Temple</name>
+    </temple>
     <temple code="TOKYO" oldCode="TK">
       <name>Tokyo Japan Temple</name>
     </temple>
@@ -432,6 +489,9 @@
     </temple>
     <temple code="TWINF">
       <name>Twin Falls Idaho Temple</name>
+    </temple>
+    <temple code="URDAN">
+      <name>Urdaneta Philippines Temple</name>
     </temple>
     <temple code="VANCO">
       <name>Vancouver British Columbia Temple</name>
@@ -447,6 +507,9 @@
     </temple>
     <temple code="WASHI" oldCode="WA">
       <name>Washington D.C. Temple</name>
+    </temple>
+    <temple code="WINNI">
+      <name>Winnepeg Manitoba Temple</name>
     </temple>
     <temple code="WINTE">
       <name>Winter Quarters Temple</name>
