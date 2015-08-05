@@ -152,7 +152,7 @@
       },
       {
         "name": "Cebu Philippines Temple",
-        "code": "CEBUP",
+        "code": "CEBU",
         "oldCode": null,
         "requestedCode": null
       },
@@ -189,6 +189,12 @@
       {
         "name": "Columbus Ohio Temple",
         "code": "COLUM",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
+        "name": "Concepcion Chile Temple",
+        "code": "CONCE",
         "oldCode": null,
         "requestedCode": null
       },
@@ -250,6 +256,18 @@
         "name": "Endowment House",
         "code": "EHOUS",
         "oldCode": "EH",
+        "requestedCode": null
+      },
+      {
+        "name": "Fortaleza Brazil Temple",
+        "code": "FORTA",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
+        "name": Fort Collins Colorado Temple",
+        "code": "FORTC",
+        "oldCode": null,
         "requestedCode": null
       },
       {
@@ -325,6 +343,18 @@
         "requestedCode": null
       },
       {
+        "name": "Harrison New York Temple",
+        "code": "HARRI",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
+        "name": "Hartford Connecticut Temple",
+        "code": "HARTF",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
         "name": "Laie Hawaii Temple",
         "code": "HAWAI",
         "oldCode": "HA",
@@ -385,14 +415,14 @@
         "requestedCode": null
       },
       {
-        "name": "Kona Hawaii Temple",
-        "code": "KONA",
+        "name": "Kiev Ukraine Temple",
+        "code": "KIEV",
         "oldCode": null,
         "requestedCode": null
       },
       {
-        "name": "Kyiv Ukraine Temple",
-        "code": "KYIV",
+        "name": "Kona Hawaii Temple",
+        "code": "KONA",
         "oldCode": null,
         "requestedCode": null
       },
@@ -406,6 +436,12 @@
         "name": "Lima Peru Temple",
         "code": "LIMA",
         "oldCode": "LI",
+        "requestedCode": null
+      },
+      {
+        "name": "Lisbon Portugal Temple",
+        "code": "LISBO",
+        "oldCode": null,
         "requestedCode": null
       },
       {
@@ -483,6 +519,12 @@
       {
         "name": "Memphis Tennessee Temple",
         "code": "MEMPH",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
+        "name": "Meridian Idaho Temple",
+        "code": "MERI",
         "oldCode": null,
         "requestedCode": null
       },
@@ -625,6 +667,12 @@
         "requestedCode": null
       },
       {
+        "name": "Payson Utah Temple",
+        "code": "PAYSO",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
         "name": "Perth Australia Temple",
         "code": "PERTH",
         "oldCode": null,
@@ -633,6 +681,12 @@
       {
         "name": "Phoenix Arizona Temple",
         "code": "PHOEN",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
+        "name": "Philadelphia Pennsylvania Temple",
+        "code": "PHILA",
         "oldCode": null,
         "requestedCode": null
       },
@@ -703,6 +757,12 @@
         "requestedCode": null
       },
       {
+        "name": "Rome Italy Temple",
+        "code": "ROMEI",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
         "name": "Sacramento California Temple",
         "code": "SACRA",
         "oldCode": null,
@@ -723,6 +783,12 @@
       {
         "name": "San Antonio Texas Temple",
         "code": "SANTO",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
+        "name": "Sapporo Japan Temple",
+        "code": "SAPPO",
         "oldCode": null,
         "requestedCode": null
       },
@@ -847,6 +913,12 @@
         "requestedCode": null
       },
       {
+        "name": "Tijuana México Temple",
+        "code": "TIJUA",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
         "name": "Tokyo Japan Temple",
         "code": "TOKYO",
         "oldCode": "TK",
@@ -867,6 +939,12 @@
       {
         "name": "Twin Falls Idaho Temple",
         "code": "TWINF",
+        "oldCode": null,
+        "requestedCode": null
+      },
+      {
+        "name": "Urdaneta Phillipines Temple",
+        "code": "URDAN",
         "oldCode": null,
         "requestedCode": null
       },
@@ -898,6 +976,12 @@
         "name": "Washington D.C. Temple",
         "code": "WASHI",
         "oldCode": "WA",
+        "requestedCode": null
+      },
+      {
+        "name": "Winnipeg Manitoba Temple",
+        "code": "WINNI",
+        "oldCode": null,
         "requestedCode": null
       },
       {
