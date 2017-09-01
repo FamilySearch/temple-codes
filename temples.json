@@ -1,1043 +1,798 @@
 {
-  "statusCode": 200,
-  "statusMessage": "OK",
-  "deprecated": null,
-  "version": "1.7.20150306.1936",
-  "temples": {
-    "count": 150,
-    "temple": [
-      {
-        "name": "Aba Nigeria Temple",
-        "code": "ABA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Accra Ghana Temple",
-        "code": "ACCRA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Adelaide Australia Temple",
-        "code": "ADELA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Cardston Alberta Temple",
-        "code": "ALBER",
-        "oldCode": "AL",
-        "requestedCode": null
-      },
-      {
-        "name": "Albuquerque New Mexico Temple",
-        "code": "ALBUQ",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Anchorage Alaska Temple",
-        "code": "ANCHO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Apia Samoa Temple",
-        "code": "APIA",
-        "oldCode": "AP",
-        "requestedCode": null
-      },
-      {
-        "name": "Mesa Arizona Temple",
-        "code": "ARIZO",
-        "oldCode": "AZ",
-        "requestedCode": null
-      },
-      {
-        "name": "Asunción Paraguay Temple",
-        "code": "ASUNC",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Atlanta Georgia Temple",
-        "code": "ATLAN",
-        "oldCode": "AT",
-        "requestedCode": null
-      },
-      {
-        "name": "Buenos Aires Argentina Temple",
-        "code": "BAIRE",
-        "oldCode": "BA",
-        "requestedCode": null
-      },
-      {
-        "name": "Billings Montana Temple",
-        "code": "BILLI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Birmingham Alabama Temple",
-        "code": "BIRMI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Bismarck North Dakota Temple",
-        "code": "BISMA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Bogotá Colombia Temple",
-        "code": "BOGOT",
-        "oldCode": "BG",
-        "requestedCode": null
-      },
-      {
-        "name": "Boise Idaho Temple",
-        "code": "BOISE",
-        "oldCode": "BO",
-        "requestedCode": null
-      },
-      {
-        "name": "Boston Massachusetts Temple",
-        "code": "BOSTO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Bountiful Utah Temple",
-        "code": "BOUNT",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Brigham City Utah Temple",
-        "code": "BRIGH",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Brisbane Australia Temple",
-        "code": "BRISB",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Baton Rouge Louisiana Temple",
-        "code": "BROUG",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Calgary Alberta Temple",
-        "code": "CALGA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Campinas Brazil Temple",
-        "code": "CAMPI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Caracas Venezuela Temple",
-        "code": "CARAC",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Cebu Philippines Temple",
-        "code": "CEBUP",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Chicago Illinois Temple",
-        "code": "CHICA",
-        "oldCode": "CH",
-        "requestedCode": null
-      },
-      {
-        "name": "Ciudad Juárez México Temple",
-        "code": "CIUJU",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Cochabamba Bolivia Temple",
-        "code": "COCHA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Colonia Juárez Chihuahua México Temple",
-        "code": "COLJU",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Columbia South Carolina Temple",
-        "code": "COLSC",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Columbus Ohio Temple",
-        "code": "COLUM",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Concepcion Chile Temple",
-        "code": "CONCE",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Copenhagen Denmark Temple",
-        "code": "COPEN",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Cordoba Argentina Temple",
-        "code": "CORDO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Columbia River Washington Temple",
-        "code": "CRIVE",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Curitiba Brazil Temple",
-        "code": "CURIT",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Dallas Texas Temple",
-        "code": "DALLA",
-        "oldCode": "DA",
-        "requestedCode": null
-      },
-      {
-        "name": "Denver Colorado Temple",
-        "code": "DENVE",
-        "oldCode": "DV",
-        "requestedCode": null
-      },
-      {
-        "name": "Detroit Michigan Temple",
-        "code": "DETRO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Draper Utah Temple",
-        "code": "DRAPE",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Durban South Africa Temple",
-        "code": "DURBA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Edmonton Alberta Temple",
-        "code": "EDMON",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Endowment House",
-        "code": "EHOUS",
-        "oldCode": "EH",
-        "requestedCode": null
-      },
-      {
-        "name": "Fortaleza Brazil Temple",
-        "code": "FORTA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Fort Collins Colorado Temple",
-        "code": "FORTC",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Fort Lauderdale Florida Temple",
-        "code": "FORTL",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Frankfurt Germany Temple",
-        "code": "FRANK",
-        "oldCode": "FR",
-        "requestedCode": null
-      },
-      {
-        "name": "Freiberg Germany Temple",
-        "code": "FREIB",
-        "oldCode": "FD",
-        "requestedCode": null
-      },
-      {
-        "name": "Fresno California Temple",
-        "code": "FRESN",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Fukuoka Japan Temple",
-        "code": "FUKUO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "The Gila Valley Arizona Temple",
-        "code": "GILAV",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Gilbert Arizona Temple",
-        "code": "GILBE",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Guadalajara México Temple",
-        "code": "GUADA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Guatemala City Guatemala Temple",
-        "code": "GUATE",
-        "oldCode": "GA",
-        "requestedCode": null
-      },
-      {
-        "name": "Guayaquil Ecuador Temple",
-        "code": "GUAYA",
-        "oldCode": "GY",
-        "requestedCode": null
-      },
-      {
-        "name": "The Hague Netherlands Temple",
-        "code": "HAGUE",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Halifax Nova Scotia Temple",
-        "code": "HALIF",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Harrison New York Temple",
-        "code": "HARRI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Hartford Connecticut Temple",
-        "code": "HARTF",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Laie Hawaii Temple",
-        "code": "HAWAI",
-        "oldCode": "HA",
-        "requestedCode": null
-      },
-      {
-        "name": "Helsinki Finland Temple",
-        "code": "HELSI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Hermosillo Sonora México Temple",
-        "code": "HERMO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Hong Kong China Temple",
-        "code": "HKONG",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Houston Texas Temple",
-        "code": "HOUST",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Idaho Falls Idaho Temple",
-        "code": "IFALL",
-        "oldCode": "IF",
-        "requestedCode": null
-      },
-      {
-        "name": "Indianapolis Indiana Temple",
-        "code": "INDIA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Johannesburg South Africa Temple",
-        "code": "JOHAN",
-        "oldCode": "JO",
-        "requestedCode": null
-      },
-      {
-        "name": "Jordan River Utah Temple",
-        "code": "JRIVE",
-        "oldCode": "JR",
-        "requestedCode": null
-      },
-      {
-        "name": "Kansas City Missouri Temple",
-        "code": "KANSA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Kiev Ukraine Temple",
-        "code": "KIEV",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Kinshasa Democratic Republic of Congo Temple",
-        "code": "KINSH",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Kona Hawaii Temple",
-        "code": "KONA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Los Angeles California Temple",
-        "code": "LANGE",
-        "oldCode": "LA",
-        "requestedCode": null
-      },
-      {
-        "name": "Lima Peru Temple",
-        "code": "LIMA",
-        "oldCode": "LI",
-        "requestedCode": null
-      },
-      {
-        "name": "Lisbon Portugal Temple",
-        "code": "LISBO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Logan Utah Temple",
-        "code": "LOGAN",
-        "oldCode": "LG",
-        "requestedCode": null
-      },
-      {
-        "name": "London England Temple",
-        "code": "LONDO",
-        "oldCode": "LD",
-        "requestedCode": null
-      },
-      {
-        "name": "Louisville Kentucky Temple",
-        "code": "LOUIS",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Lubbock Texas Temple",
-        "code": "LUBBO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Las Vegas Nevada Temple",
-        "code": "LVEGA",
-        "oldCode": "LV",
-        "requestedCode": null
-      },
-      {
-        "name": "Madrid Spain Temple",
-        "code": "MADRI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Manaus Brazil Temple",
-        "code": "MANAU",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Manhattan New York Temple",
-        "code": "MANHA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Manila Philippines Temple",
-        "code": "MANIL",
-        "oldCode": "MA",
-        "requestedCode": null
-      },
-      {
-        "name": "Manti Utah Temple",
-        "code": "MANTI",
-        "oldCode": "MT",
-        "requestedCode": null
-      },
-      {
-        "name": "Medford Oregon Temple",
-        "code": "MEDFO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Melbourne Australia Temple",
-        "code": "MELBO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Memphis Tennessee Temple",
-        "code": "MEMPH",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Meridian Idaho Temple",
-        "code": "MERI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Mérida México Temple",
-        "code": "MERID",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "México City México Temple",
-        "code": "MEXIC",
-        "oldCode": "MX",
-        "requestedCode": null
-      },
-      {
-        "name": "Meridian Idaho",
-        "code": "MIDAH",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Montevideo Uruguay Temple",
-        "code": "MNTVD",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Monterrey México Temple",
-        "code": "MONTE",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Monticello Utah Temple",
-        "code": "MONTI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Montréal Québec Temple",
-        "code": "MONTR",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Mount Timpanogos Utah Temple",
-        "code": "MTIMP",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Nashville Tennessee Temple",
-        "code": "NASHV",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Nauvoo Illinois Temple",
-        "code": "NAUV2",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Nauvoo Temple (old)",
-        "code": "NAUVO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Newport Beach California Temple",
-        "code": "NBEAC",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Nuku'alofa Tonga Temple",
-        "code": "NUKUA",
-        "oldCode": "TG",
-        "requestedCode": null
-      },
-      {
-        "name": "Hamilton New Zealand Temple",
-        "code": "NZEAL",
-        "oldCode": "NZ",
-        "requestedCode": null
-      },
-      {
-        "name": "Oakland California Temple",
-        "code": "OAKLA",
-        "oldCode": "OK",
-        "requestedCode": null
-      },
-      {
-        "name": "Oaxaca México Temple",
-        "code": "OAXAC",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Ogden Utah Temple",
-        "code": "OGDEN",
-        "oldCode": "OG",
-        "requestedCode": null
-      },
-      {
-        "name": "Oklahoma City Oklahoma Temple",
-        "code": "OKLAH",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Oquirrh Mountain Utah Temple",
-        "code": "OQUIR",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Orlando Florida Temple",
-        "code": "ORLAN",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Porto Alegre Brazil Temple",
-        "code": "PALEG",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Palmyra New York Temple",
-        "code": "PALMY",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Panamá City Panamá Temple",
-        "code": "PANAM",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Papeete Tahiti Temple",
-        "code": "PAPEE",
-        "oldCode": "TA",
-        "requestedCode": null
-      },
-      {
-        "name": "Paris France Temple",
-        "code": "PARIS",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Payson Utah Temple",
-        "code": "PAYSO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Perth Australia Temple",
-        "code": "PERTH",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Philadelphia Pennsylvania Temple",
-        "code": "PHILA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Phoenix Arizona Temple",
-        "code": "PHOEN",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "President's Office",
-        "code": "POFFI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Port-Au-Prince Haitti Temple",
-        "code": "PORTA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Portland Oregon Temple",
-        "code": "PORTL",
-        "oldCode": "PT",
-        "requestedCode": null
-      },
-      {
-        "name": "Preston England Temple",
-        "code": "PREST",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Provo City Center",
-        "code": "PROCC",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Provo Utah Temple",
-        "code": "PROVO",
-        "oldCode": "PV",
-        "requestedCode": null
-      },
-      {
-        "name": "Quetzaltenango Guatemala Temple",
-        "code": "QUETZ",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Raleigh North Carolina Temple",
-        "code": "RALEI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Recife Brazil Temple",
-        "code": "RECIF",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Redlands California Temple",
-        "code": "REDLA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Regina Saskatchewan Temple",
-        "code": "REGIN",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Reno Nevada Temple",
-        "code": "RENO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Rexburg Idaho Temple",
-        "code": "REXBU",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Rio De Janiero Temple",
-        "code": "RIODE",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Rome Italy Temple",
-        "code": "ROMEI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Sacramento California Temple",
-        "code": "SACRA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "San Salvador El Salvador Temple",
-        "code": "SANSA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Santiago Chile Temple",
-        "code": "SANTI",
-        "oldCode": "SN",
-        "requestedCode": null
-      },
-      {
-        "name": "San Antonio Texas Temple",
-        "code": "SANTO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Sapporo Japan Temple",
-        "code": "SAPPO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "San Diego California Temple",
-        "code": "SDIEG",
-        "oldCode": "SA",
-        "requestedCode": null
-      },
-      {
-        "name": "Santo Domingo Dominican Republic Temple",
-        "code": "SDOMI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Seattle Washington Temple",
-        "code": "SEATT",
-        "oldCode": "SE",
-        "requestedCode": null
-      },
-      {
-        "name": "Seoul Korea Temple",
-        "code": "SEOUL",
-        "oldCode": "SO",
-        "requestedCode": null
-      },
-      {
-        "name": "St. George Utah Temple",
-        "code": "SGEOR",
-        "oldCode": "SG",
-        "requestedCode": null
-      },
-      {
-        "name": "San José Costa Rica Temple",
-        "code": "SJOSE",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Salt Lake Temple",
-        "code": "SLAKE",
-        "oldCode": "SL",
-        "requestedCode": null
-      },
-      {
-        "name": "St. Louis Missouri Temple",
-        "code": "SLOUI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Snowflake Arizona Temple",
-        "code": "SNOWF",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "São Paulo Brazil Temple",
-        "code": "SPAUL",
-        "oldCode": "SP",
-        "requestedCode": null
-      },
-      {
-        "name": "St. Paul Minnesota Temple",
-        "code": "SPMIN",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Spokane Washington Temple",
-        "code": "SPOKA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Star Valley Wyoming Temple",
-        "code": "STARV",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Stockholm Sweden Temple",
-        "code": "STOCK",
-        "oldCode": "ST",
-        "requestedCode": null
-      },
-      {
-        "name": "Suva Fiji Temple",
-        "code": "SUVA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Bern Switzerland Temple",
-        "code": "SWISS",
-        "oldCode": "SW",
-        "requestedCode": null
-      },
-      {
-        "name": "Sydney Australia Temple",
-        "code": "SYDNE",
-        "oldCode": "SD",
-        "requestedCode": null
-      },
-      {
-        "name": "Taipei Taiwan Temple",
-        "code": "TAIPE",
-        "oldCode": "TP",
-        "requestedCode": null
-      },
-      {
-        "name": "Tampico México Temple",
-        "code": "TAMPI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Tegucigalpa Honduras Temple",
-        "code": "TEGUC",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Tuxtla Gutiérrez México Temple",
-        "code": "TGUTI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Tijuana México Temple",
-        "code": "TIJUA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Tokyo Japan Temple",
-        "code": "TOKYO",
-        "oldCode": "TK",
-        "requestedCode": null
-      },
-      {
-        "name": "Toronto Ontario Temple",
-        "code": "TORON",
-        "oldCode": "TR",
-        "requestedCode": null
-      },
-      {
-        "name": "Trujillo Peru Temple",
-        "code": "TRUJI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Twin Falls Idaho Temple",
-        "code": "TWINF",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Urdaneta Phillipines Temple",
-        "code": "URDAN",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Vancouver British Columbia Temple",
-        "code": "VANCO",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Veracruz México Temple",
-        "code": "VERAC",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Vernal Utah Temple",
-        "code": "VERNA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Villahermosa México Temple",
-        "code": "VILLA",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Washington D.C. Temple",
-        "code": "WASHI",
-        "oldCode": "WA",
-        "requestedCode": null
-      },
-      {
-        "name": "Winnipeg Manitoba Temple",
-        "code": "WINNI",
-        "oldCode": null,
-        "requestedCode": null
-      },
-      {
-        "name": "Winter Quarters Temple",
-        "code": "WINTE",
-        "oldCode": null,
-        "requestedCode": null
-      }
-    ]
-  }
+    "statusCode": 200,
+    "statusMessage": "OK",
+    "version": "1.7.20170901.0856",
+    "temples": {
+      "count": 185,
+      "temple": [
+        {
+          "code": "ABA",
+          "name": "Aba Nigeria"
+        },
+        {
+          "code": "ABIJA",
+          "name": "Abijan Ivory Coast"
+        },
+        {
+          "code": "ACCRA",
+          "name": "Accra Ghana"
+        },
+        {
+          "code": "ADELA",
+          "name": "Adelaide Australia"
+        },
+        {
+          "code": "ALBUQ",
+          "name": "Albuquerque New Mexico"
+        },
+        {
+          "code": "ANCHO",
+          "name": "Anchorage Alaska"
+        },
+        {
+          "code": "APIA",
+          "oldCode": "AP",
+          "name": "Apia Samoa "
+        },
+        {
+          "code": "AREQU",
+          "name": "Arequipa Pera"
+        },
+        {
+          "code": "ASUNC",
+          "name": "Asuncion Paraguay"
+        },
+        {
+          "code": "ATLAN",
+          "oldCode": "AT",
+          "name": "Atlanta Georgia "
+        },
+        {
+          "code": "BANKO",
+          "name": "Bangkok Thailand"
+        },
+        {
+          "code": "BARRA",
+          "name": "Barranquilla Columbia"
+        },
+        {
+          "code": "BROUG",
+          "name": "Baton Rouge Louisiana"
+        },
+        {
+          "code": "BELEM",
+          "name": "Belem Brazil"
+        },
+        {
+          "code": "SWISS",
+          "oldCode": "SW",
+          "name": "Bern Switzerland"
+        },
+        {
+          "code": "BILLI",
+          "name": "Billings Montana"
+        },
+        {
+          "code": "BIRMI",
+          "name": "Birmingham Alabama"
+        },
+        {
+          "code": "BISMA",
+          "name": "Bismarck North Dakota"
+        },
+        {
+          "code": "BOGOT",
+          "oldCode": "BG",
+          "name": "Bogotá Colombia"
+        },
+        {
+          "code": "BOISE",
+          "oldCode": "BO",
+          "name": "Boise Idaho"
+        },
+        {
+          "code": "BOSTO",
+          "name": "Boston Massachusetts"
+        },
+        {
+          "code": "BOUNT",
+          "name": "Bountiful Utah"
+        },
+        {
+          "code": "BRASI",
+          "name": "Brasilia Brazil"
+        },
+        {
+          "code": "BRIGH",
+          "name": "Brigham City Utah"
+        },
+        {
+          "code": "BRISB",
+          "name": "Brisbane Australia"
+        },
+        {
+          "code": "BAIRE ",
+          "oldCode": "BA",
+          "name": "Buenos Aires Argentina"
+        },
+        {
+          "code": "CALGA",
+          "name": "Calgary Alberta"
+        },
+        {
+          "code": "CAMPI",
+          "name": "Campinas Brazil"
+        },
+        {
+          "code": "CARAC",
+          "name": "Caracas Venezuela"
+        },
+        {
+          "code": "ALBER",
+          "oldCode": "AL",
+          "name": "Cardston Alberta"
+        },
+        {
+          "code": "CEBUP",
+          "name": "Cebu Philippines"
+        },
+        {
+          "code": "CEDAR",
+          "name": "Cedar City Utah"
+        },
+        {
+          "code": "CHICA",
+          "oldCode": "CH",
+          "name": "Chicago Illinois"
+        },
+        {
+          "code": "CIUJU",
+          "name": "Ciudad Juarez Mexico"
+        },
+        {
+          "code": "COCHA",
+          "name": "Cochabamba Bolivia"
+        },
+        {
+          "code": "COLJU",
+          "name": "Colonia Juarez Chihuahua Mexico"
+        },
+        {
+          "code": "CRIVE",
+          "name": "Columbia River Washington"
+        },
+        {
+          "code": "COLSC",
+          "name": "Columbia South Carolina"
+        },
+        {
+          "code": "COLUM",
+          "name": "Columbus Ohio"
+        },
+        {
+          "code": "CONCE",
+          "name": "Concepción Chile"
+        },
+        {
+          "code": "COPEN",
+          "name": "Copenhagen Denmark"
+        },
+        {
+          "code": "CORDO",
+          "name": "Córdoba Argentina"
+        },
+        {
+          "code": "CURIT",
+          "name": "Curitiba Brazil"
+        },
+        {
+          "code": "DALLA",
+          "oldCode": "DA",
+          "name": "Dallas Texas"
+        },
+        {
+          "code": "DENVE",
+          "oldCode": "DV",
+          "name": "Denver Colorado"
+        },
+        {
+          "code": "DETRO",
+          "name": "Detroit Michigan"
+        },
+        {
+          "code": "DRAPE",
+          "name": "Draper Utah"
+        },
+        {
+          "code": "DURBA",
+          "name": "Durban South Africa"
+        },
+        {
+          "code": "EDMON",
+          "name": "Edmonton Alberta"
+        },
+        {
+          "code": "EHOUS",
+          "oldCode": "EH",
+          "name": "Endowment House"
+        },
+        {
+          "code": "FORTC",
+          "name": "Fort Collins Colorado"
+        },
+        {
+          "code": "FORTL",
+          "name": "Fort Lauderdale Florida"
+        },
+        {
+          "code": "FORTA",
+          "name": "Fortaleza Brazil"
+        },
+        {
+          "code": "FRANK",
+          "oldCode": "FR",
+          "name": "Frankfurt Germany"
+        },
+        {
+          "code": "FREIB",
+          "oldCode": "FD",
+          "name": "Freiberg Germany"
+        },
+        {
+          "code": "FRESN",
+          "name": "Fresno California"
+        },
+        {
+          "code": "FUKUO",
+          "name": "Fukuoka Japan"
+        },
+        {
+          "code": "GILBE",
+          "name": "Gilbert Arizona"
+        },
+        {
+          "code": "GUADA",
+          "name": "Guadalajra Mexico"
+        },
+        {
+          "code": "GUATE",
+          "oldCode": "GA",
+          "name": "Guatemala City Guatemala"
+        },
+        {
+          "code": "GUAYA",
+          "oldCode": "GY",
+          "name": "Guayaquil Ecuador"
+        },
+        {
+          "code": "HALIF",
+          "name": "Halifax Nova Scotia"
+        },
+        {
+          "code": "NZEAL",
+          "oldCode": "NZ",
+          "name": "Hamilton New Zealand"
+        },
+        {
+          "code": "HARRE",
+          "name": "Harrare Zimbabwe"
+        },
+        {
+          "code": "HARTF",
+          "name": "Hartford Connecticut"
+        },
+        {
+          "code": "HELSI",
+          "name": "Helsinki Finland"
+        },
+        {
+          "code": "HERMO",
+          "name": "Hermosillo Sonora Mexico"
+        },
+        {
+          "code": "HKONG",
+          "name": "Hong Kong China"
+        },
+        {
+          "code": "HOUST",
+          "name": "Houston Texas"
+        },
+        {
+          "code": "IFALL",
+          "oldCode": "IF",
+          "name": "Idaho Falls Idaho"
+        },
+        {
+          "code": "INDIA",
+          "name": "Indianapolis Indiana"
+        },
+        {
+          "code": "JOHAN",
+          "oldCode": "JO",
+          "name": "Johannesburg South Africa"
+        },
+        {
+          "code": "JRIVE",
+          "oldCode": "JR",
+          "name": "Jordan River Utah"
+        },
+        {
+          "code": "KANSA",
+          "name": "Kansas City Missouri"
+        },
+        {
+          "code": "KINSH",
+          "name": "Kinshasa Democratic Republic Of Congo"
+        },
+        {
+          "code": "KONA",
+          "name": "Kona Hawaii"
+        },
+        {
+          "code": "KYIV",
+          "name": "Kyiv Ukraine"
+        },
+        {
+          "code": "HAWAI",
+          "oldCode": "HA",
+          "name": "Laie Hawaii"
+        },
+        {
+          "code": "LVEGA",
+          "oldCode": "LV",
+          "name": "Las Vegas Nevada"
+        },
+        {
+          "code": "LIMAO",
+          "name": "Lima Peru Los Olivos"
+        },
+        {
+          "code": "LIMA",
+          "oldCode": "LI",
+          "name": "Lima Peru"
+        },
+        {
+          "code": "LISBO",
+          "name": "Lisbon Portugal"
+        },
+        {
+          "code": "LOGAN",
+          "oldCode": "LG",
+          "name": "Logan Utah"
+        },
+        {
+          "code": "LONDO",
+          "oldCode": "LD",
+          "name": "London England"
+        },
+        {
+          "code": "LANGE",
+          "oldCode": "LA",
+          "name": "Los Angeles California"
+        },
+        {
+          "code": "LOUIS",
+          "name": "Louisville Kentucky"
+        },
+        {
+          "code": "LUBBO",
+          "name": "Lubbock Texas"
+        },
+        {
+          "code": "MADRI",
+          "name": "Madrid Spain"
+        },
+        {
+          "code": "MANAU",
+          "name": "Manaus Brazil"
+        },
+        {
+          "code": "MANHA",
+          "name": "Manhattan New York"
+        },
+        {
+          "code": "MANIL",
+          "oldCode": "MA",
+          "name": "Manila Philippines"
+        },
+        {
+          "code": "MANTI",
+          "oldCode": "MT",
+          "name": "Manti Utah"
+        },
+        {
+          "code": "MEDFO",
+          "name": "Medford Oregon"
+        },
+        {
+          "code": "MELBO",
+          "name": "Melbourne Australia"
+        },
+        {
+          "code": "MEMPH",
+          "name": "Memphis Tennessee"
+        },
+        {
+          "code": "MERID",
+          "name": "Mérida Mexico"
+        },
+        {
+          "code": "MIDAH",
+          "name": "Meridian Idaho"
+        },
+        {
+          "code": "ARIZO",
+          "oldCode": "AZ",
+          "name": "Mesa Arizona"
+        },
+        {
+          "code": "MEXIC",
+          "oldCode": "MX",
+          "name": "Mexico City Mexico"
+        },
+        {
+          "code": "MONTE",
+          "name": "Monterrey Mexico"
+        },
+        {
+          "code": "MNTVD",
+          "name": "Montevideo Uruguay"
+        },
+        {
+          "code": "MONTI",
+          "name": "Monticello Utah"
+        },
+        {
+          "code": "MONTR",
+          "name": "Montreal Quebec"
+        },
+        {
+          "code": "MTIMP",
+          "name": "Mount Timpanogos Utah"
+        },
+        {
+          "code": "NAIRO",
+          "name": "Nairobi Kenya"
+        },
+        {
+          "code": "NASHV",
+          "name": "Nashville Tennessee"
+        },
+        {
+          "code": "NAUVO",
+          "name": "Nauvoo"
+        },
+        {
+          "code": "NAUV2",
+          "name": "Nauvoo Illinois"
+        },
+        {
+          "code": "NBEAC",
+          "name": "Newport Beach California"
+        },
+        {
+          "code": "NUKUA",
+          "oldCode": "TG",
+          "name": "Nuku'Alofa Tonga"
+        },
+        {
+          "code": "OAKLA",
+          "oldCode": "OK",
+          "name": "Oakland California"
+        },
+        {
+          "code": "OAXAC",
+          "name": "Oaxaca Mexico"
+        },
+        {
+          "code": "OGDEN",
+          "oldCode": "OG",
+          "name": "Ogden Utah"
+        },
+        {
+          "code": "OKLAH",
+          "name": "Oklahoma City Oklahoma"
+        },
+        {
+          "code": "OQUIR",
+          "name": "Oquirrh Mountain Utah"
+        },
+        {
+          "code": "ORLAN",
+          "name": "Orlando Florida"
+        },
+        {
+          "code": "OTHER",
+          "name": "Other"
+        },
+        {
+          "code": "PALMY",
+          "name": "Palmyra New York"
+        },
+        {
+          "code": "PANAM",
+          "name": "Panama City Panama"
+        },
+        {
+          "code": "PAPEE",
+          "oldCode": "TA",
+          "name": "Papeete Tahiti"
+        },
+        {
+          "code": "PARIS",
+          "name": "Paris France"
+        },
+        {
+          "code": "PAYSO",
+          "name": "Payson Utah"
+        },
+        {
+          "code": "PERTH",
+          "name": "Perth Australia"
+        },
+        {
+          "code": "PHILA",
+          "name": "Philadelphia Pennsylvania"
+        },
+        {
+          "code": "PHOEN",
+          "name": "Phoenix Arizona"
+        },
+        {
+          "code": "POCAT",
+          "name": "Pocatelo Idaho"
+        },
+        {
+          "code": "PORTA",
+          "name": "Port-Au-Prince Haitti"
+        },
+        {
+          "code": "PORTL",
+          "oldCode": "PT",
+          "name": "Portland Oregon"
+        },
+        {
+          "code": "PALEG",
+          "name": "Porto Alegre Brazil"
+        },
+        {
+          "code": "POFFI",
+          "name": "President'S Office"
+        },
+        {
+          "code": "PREST ",
+          "name": "Preston England "
+        },
+        {
+          "code": "PROCC",
+          "oldCode": "PV",
+          "name": "Provo City Center"
+        },
+        {
+          "code": "PROVO",
+          "name": "Provo Utah"
+        },
+        {
+          "code": "QUETZ",
+          "name": "Quetzaltenango Guatemala"
+        },
+        {
+          "code": "QUITO",
+          "name": "Quito Ecuador"
+        },
+        {
+          "code": "RALEI",
+          "name": "Raleigh North Carolina"
+        },
+        {
+          "code": "RECIF",
+          "name": "Recife Brazil"
+        },
+        {
+          "code": "REDLA",
+          "name": "Redlands California"
+        },
+        {
+          "code": "REGIN",
+          "name": "Regina Saskatchewan"
+        },
+        {
+          "code": "RENO",
+          "name": "Reno Nevada"
+        },
+        {
+          "code": "RIODE",
+          "name": "Rio De Janiero"
+        },
+        {
+          "code": "REXBU",
+          "name": "Rexburg Idaho"
+        },
+        {
+          "code": "ROMEI",
+          "name": "Rome Italy"
+        },
+        {
+          "code": "SACRA",
+          "name": "Sacramento California"
+        },
+        {
+          "code": "SLAKE",
+          "oldCode": "SL",
+          "name": "Salt Lake"
+        },
+        {
+          "code": "SANTO",
+          "name": "San Antonio Texas"
+        },
+        {
+          "code": "SDIEG",
+          "oldCode": "SD",
+          "name": "San Diego California"
+        },
+        {
+          "code": "SJOSE",
+          "name": "San Jose Costa Rica"
+        },
+        {
+          "code": "SANSA",
+          "name": "San Salvador El Salvador"
+        },
+        {
+          "code": "SANTI ",
+          "oldCode": "SN",
+          "name": "Santiago Chile"
+        },
+        {
+          "code": "SDOMI",
+          "name": "Santo Domingo Dom. Rep."
+        },
+        {
+          "code": "SPAUL",
+          "oldCode": "SP",
+          "name": "Sao Paulo Brazil"
+        },
+        {
+          "code": "SARAT",
+          "name": "Saratoga Springs Utah"
+        },
+        {
+          "code": "SAPPO",
+          "name": "Sapporo Japan"
+        },
+        {
+          "code": "SEATT",
+          "oldCode": "SE",
+          "name": "Seattle Washington"
+        },
+        {
+          "code": "SEOUL",
+          "oldCode": "SO",
+          "name": "Seoul South Korea"
+        },
+        {
+          "code": "SNOWF",
+          "name": "Snowflake Arizona"
+        },
+        {
+          "code": "SPOKA",
+          "name": "Spokane Washington"
+        },
+        {
+          "code": "SGEOR",
+          "oldCode": "SG",
+          "name": "St. George Utah"
+        },
+        {
+          "code": "SLOUI ",
+          "name": "St. Louis Missouri"
+        },
+        {
+          "code": "SPMIN",
+          "name": "St. Paul Minnesota"
+        },
+        {
+          "code": "STARV",
+          "name": "Star Valley Wyoming"
+        },
+        {
+          "code": "STOCK",
+          "oldCode": "ST",
+          "name": "Stockholm Sweden"
+        },
+        {
+          "code": "SUVA",
+          "name": "Suva Fiji"
+        },
+        {
+          "code": "SYDNE",
+          "oldCode": "SD",
+          "name": "Sydney Australia"
+        },
+        {
+          "code": "TAIPE",
+          "oldCode": "TP",
+          "name": "Taipei Taiwan"
+        },
+        {
+          "code": "TAMPI",
+          "name": "Tampico Mexico"
+        },
+        {
+          "code": "TEGUC",
+          "name": "Tegucigalpa Honduras"
+        },
+        {
+          "code": "HAGUE",
+          "name": "The Hague Netherlands"
+        },
+        {
+          "code": "GILAV",
+          "name": "The Gila Valley"
+        },
+        {
+          "code": "TIJUA",
+          "name": "Tijuana Mexico"
+        },
+        {
+          "code": "TOKYO",
+          "oldCode": "TK",
+          "name": "Tokyo Japan"
+        },
+        {
+          "code": "TORON",
+          "oldCode": "TR",
+          "name": "Toronto Ontario"
+        },
+        {
+          "code": "TRUJI",
+          "name": "Trujillo Peru"
+        },
+        {
+          "code": "TUCSO",
+          "name": "Tucson Arizona"
+        },
+        {
+          "code": "TGUTI",
+          "name": "Tuxtla Gutierrez Mexico"
+        },
+        {
+          "code": "TWINF",
+          "name": "Twin Falls Idaho"
+        },
+        {
+          "code": "URDAN",
+          "name": "Urdaneta Philippines"
+        },
+        {
+          "code": "VANCO",
+          "name": "Vancouver British Columbia"
+        },
+        {
+          "code": "VERAC",
+          "name": "Veracruz Mexico"
+        },
+        {
+          "code": "VERNA",
+          "name": "Vernal Utah"
+        },
+        {
+          "code": "VILLA",
+          "name": "Villahermosa Mexico"
+        },
+        {
+          "code": "WASHI",
+          "oldCode": "WA",
+          "name": "Washington D.C."
+        },
+        {
+          "code": "WINNI",
+          "name": "Winnipeg Manitoba"
+        },
+        {
+          "code": "WINTE",
+          "name": "Winter Quarters Nebraska"
+        }
+      ]
+    }
 }

@@ -1,518 +1,560 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<temple statusCode="200" statusMessage="OK" version="1.7.20150306.1936" xmlns="http://api.familysearch.org/temple/v1" xmlns:fsapi-v1="http://api.familysearch.org/v1">
-  <temples count="150">
-    <temple code="ABA">
-      <name>Aba Nigeria Temple</name>
-    </temple>
-    <temple code="ACCRA">
-      <name>Accra Ghana Temple</name>
-    </temple>
-    <temple code="ADELA">
-      <name>Adelaide Australia Temple</name>
-    </temple>
-    <temple code="ALBER" oldCode="AL">
-      <name>Cardston Alberta Temple</name>
-    </temple>
-    <temple code="ALBUQ">
-      <name>Albuquerque New Mexico Temple</name>
-    </temple>
-    <temple code="ANCHO">
-      <name>Anchorage Alaska Temple</name>
-    </temple>
-    <temple code="APIA" oldCode="AP">
-      <name>Apia Samoa Temple</name>
-    </temple>
-    <temple code="ARIZO" oldCode="AZ">
-      <name>Mesa Arizona Temple</name>
-    </temple>
-    <temple code="ASUNC">
-      <name>Asunción Paraguay Temple</name>
-    </temple>
-    <temple code="ATLAN" oldCode="AT">
-      <name>Atlanta Georgia Temple</name>
-    </temple>
-    <temple code="BAIRE" oldCode="BA">
-      <name>Buenos Aires Argentina Temple</name>
-    </temple>
-    <temple code="BILLI">
-      <name>Billings Montana Temple</name>
-    </temple>
-    <temple code="BIRMI">
-      <name>Birmingham Alabama Temple</name>
-    </temple>
-    <temple code="BISMA">
-      <name>Bismarck North Dakota Temple</name>
-    </temple>
-    <temple code="BOGOT" oldCode="BG">
-      <name>Bogotá Colombia Temple</name>
-    </temple>
-    <temple code="BOISE" oldCode="BO">
-      <name>Boise Idaho Temple</name>
-    </temple>
-    <temple code="BOSTO">
-      <name>Boston Massachusetts Temple</name>
-    </temple>
-    <temple code="BOUNT">
-      <name>Bountiful Utah Temple</name>
-    </temple>
-    <temple code="BRIGH">
-      <name>Brigham City Utah Temple</name>
-    </temple>
-    <temple code="BRISB">
-      <name>Brisbane Australia Temple</name>
-    </temple>
-    <temple code="BROUG">
-      <name>Baton Rouge Louisiana Temple</name>
-    </temple>
-    <temple code="CALGA">
-      <name>Calgary Alberta Temple</name>
-    </temple>
-    <temple code="CAMPI">
-      <name>Campinas Brazil Temple</name>
-    </temple>
-    <temple code="CARAC">
-      <name>Caracas Venezuela Temple</name>
-    </temple>
-    <temple code="CEBUP">
-      <name>Cebu Philippines Temple</name>
-    </temple>
-    <temple code="CHICA" oldCode="CH">
-      <name>Chicago Illinois Temple</name>
-    </temple>
-    <temple code="CIUJU">
-      <name>Ciudad Juárez México Temple</name>
-    </temple>
-    <temple code="COCHA">
-      <name>Cochabamba Bolivia Temple</name>
-    </temple>
-    <temple code="COLJU">
-      <name>Colonia Juárez Chihuahua México Temple</name>
-    </temple>
-    <temple code="COLSC">
-      <name>Columbia South Carolina Temple</name>
-    </temple>
-    <temple code="COLUM">
-      <name>Columbus Ohio Temple</name>
-    </temple>
-    <temple code="CONCE">
-      <name>Concepcion Chile Temple</name>
-    </temple>
-    <temple code="COPEN">
-      <name>Copenhagen Denmark Temple</name>
-    </temple>
-    <temple code="CORDO">
-      <name>Cordoba Argentina Temple</name>
-    </temple>
-    <temple code="CRIVE">
-      <name>Columbia River Washington Temple</name>
-    </temple>
-    <temple code="CURIT">
-      <name>Curitiba Brazil Temple</name>
-    </temple>
-    <temple code="DALLA" oldCode="DA">
-      <name>Dallas Texas Temple</name>
-    </temple>
-    <temple code="DENVE" oldCode="DV">
-      <name>Denver Colorado Temple</name>
-    </temple>
-    <temple code="DETRO">
-      <name>Detroit Michigan Temple</name>
-    </temple>
-    <temple code="DRAPE">
-      <name>Draper Utah Temple</name>
-    </temple>
-    <temple code="DURBA">
-      <name>Durban South Africa Temple</name>
-    </temple>
-    <temple code="EDMON">
-      <name>Edmonton Alberta Temple</name>
-    </temple>
-    <temple code="EHOUS" oldCode="EH">
-      <name>Endowment House</name>
-    </temple>
-    <temple code="FORTA">
-      <name>Fortaleza Brazil Temple</name>
-    </temple>
-    <temple code="FORTC">
-      <name>Fort Collins Colorado Temple</name>
-    </temple>
-    <temple code="FORTL">
-      <name>Fort Lauderdale Florida Temple</name>
-    </temple>
-    <temple code="FRANK" oldCode="FR">
-      <name>Frankfurt Germany Temple</name>
-    </temple>
-    <temple code="FREIB" oldCode="FD">
-      <name>Freiberg Germany Temple</name>
-    </temple>
-    <temple code="FRESN">
-      <name>Fresno California Temple</name>
-    </temple>
-    <temple code="FUKUO">
-      <name>Fukuoka Japan Temple</name>
-    </temple>
-    <temple code="GILAV">
-      <name>The Gila Valley Arizona Temple</name>
-    </temple>
-    <temple code="GILBE">
-      <name>Gilbert Arizona Temple</name>
-    </temple>
-    <temple code="GUADA">
-      <name>Guadalajara México Temple</name>
-    </temple>
-    <temple code="GUATE" oldCode="GA">
-      <name>Guatemala City Guatemala Temple</name>
-    </temple>
-    <temple code="GUAYA" oldCode="GY">
-      <name>Guayaquil Ecuador Temple</name>
-    </temple>
-    <temple code="HAGUE">
-      <name>The Hague Netherlands Temple</name>
-    </temple>
-    <temple code="HALIF">
-      <name>Halifax Nova Scotia Temple</name>
-    </temple>
-    <temple code="HARRI">
-      <name>Harrison New York Temple</name>
-    </temple>
-    <temple code="HARTF">
-      <name>Hartford Connecticut Temple</name>
-    </temple>
-    <temple code="HAWAI" oldCode="HA">
-      <name>Laie Hawaii Temple</name>
-    </temple>
-    <temple code="HELSI">
-      <name>Helsinki Finland Temple</name>
-    </temple>
-    <temple code="HERMO">
-      <name>Hermosillo Sonora México Temple</name>
-    </temple>
-    <temple code="HKONG">
-      <name>Hong Kong China Temple</name>
-    </temple>
-    <temple code="HOUST">
-      <name>Houston Texas Temple</name>
-    </temple>
-    <temple code="IFALL" oldCode="IF">
-      <name>Idaho Falls Idaho Temple</name>
-    </temple>
-    <temple code="INDIA">
-      <name>Indianapolis Indiana Temple</name>
-    </temple>
-    <temple code="JOHAN" oldCode="JO">
-      <name>Johannesburg South Africa Temple</name>
-    </temple>
-    <temple code="JRIVE" oldCode="JR">
-      <name>Jordan River Utah Temple</name>
-    </temple>
-    <temple code="KANSA">
-      <name>Kansas City Missouri Temple</name>
-    </temple>
-    <temple code="KIEV">
-      <name>Kiev Ukraine Temple</name>
-    </temple>
-    <temple code="KINSH">
-      <name>Kinshasa Democratic Republic of Congo Temple</name>
-    </temple>
-    <temple code="KONA">
-      <name>Kona Hawaii Temple</name>
-    </temple>
-    <temple code="LANGE" oldCode="LA">
-      <name>Los Angeles California Temple</name>
-    </temple>
-    <temple code="LIMA" oldCode="LI">
-      <name>Lima Peru Temple</name>
-    </temple>
-    <temple code="LISBO">
-      <name>Lisbon Portugal Temple</name>
-    </temple>
-    <temple code="LOGAN" oldCode="LG">
-      <name>Logan Utah Temple</name>
-    </temple>
-    <temple code="LONDO" oldCode="LD">
-      <name>London England Temple</name>
-    </temple>
-    <temple code="LOUIS">
-      <name>Louisville Kentucky Temple</name>
-    </temple>
-    <temple code="LUBBO">
-      <name>Lubbock Texas Temple</name>
-    </temple>
-    <temple code="LVEGA" oldCode="LV">
-      <name>Las Vegas Nevada Temple</name>
-    </temple>
-    <temple code="MADRI">
-      <name>Madrid Spain Temple</name>
-    </temple>
-    <temple code="MANAU">
-      <name>Manaus Brazil Temple</name>
-    </temple>
-    <temple code="MANHA">
-      <name>Manhattan New York Temple</name>
-    </temple>
-    <temple code="MANIL" oldCode="MA">
-      <name>Manila Philippines Temple</name>
-    </temple>
-    <temple code="MANTI" oldCode="MT">
-      <name>Manti Utah Temple</name>
-    </temple>
-    <temple code="MEDFO">
-      <name>Medford Oregon Temple</name>
-    </temple>
-    <temple code="MELBO">
-      <name>Melbourne Australia Temple</name>
-    </temple>
-    <temple code="MEMPH">
-      <name>Memphis Tennessee Temple</name>
-    </temple>
-    <temple code="MERID">
-      <name>Mérida México Temple</name>
-    </temple>
-    <temple code="MEXIC" oldCode="MX">
-      <name>México City México Temple</name>
-    </temple>
-    <temple code="MIDAH">
-      <name>Meridian Idaho Temple</name>
-    </temple>
-    <temple code="MNTVD">
-      <name>Montevideo Uruguay Temple</name>
-    </temple>
-    <temple code="MONTE">
-      <name>Monterrey México Temple</name>
-    </temple>
-    <temple code="MONTI">
-      <name>Monticello Utah Temple</name>
-    </temple>
-    <temple code="MONTR">
-      <name>Montréal Québec Temple</name>
-    </temple>
-    <temple code="MTIMP">
-      <name>Mount Timpanogos Utah Temple</name>
-    </temple>
-    <temple code="NASHV">
-      <name>Nashville Tennessee Temple</name>
-    </temple>
-    <temple code="NAUV2">
-      <name>Nauvoo Illinois Temple</name>
-    </temple>
-    <temple code="NAUVO">
-      <name>Nauvoo Temple (old)</name>
-    </temple>
-    <temple code="NBEAC">
-      <name>Newport Beach California Temple</name>
-    </temple>
-    <temple code="NUKUA" oldCode="TG">
-      <name>Nuku'alofa Tonga Temple</name>
-    </temple>
-    <temple code="NZEAL" oldCode="NZ">
-      <name>Hamilton New Zealand Temple</name>
-    </temple>
-    <temple code="OAKLA" oldCode="OK">
-      <name>Oakland California Temple</name>
-    </temple>
-    <temple code="OAXAC">
-      <name>Oaxaca México Temple</name>
-    </temple>
-    <temple code="OGDEN" oldCode="OG">
-      <name>Ogden Utah Temple</name>
-    </temple>
-    <temple code="OKLAH">
-      <name>Oklahoma City Oklahoma Temple</name>
-    </temple>
-    <temple code="OQUIR">
-      <name>Oquirrh Mountain Utah Temple</name>
-    </temple>
-    <temple code="ORLAN">
-      <name>Orlando Florida Temple</name>
-    </temple>
-    <temple code="PALEG">
-      <name>Porto Alegre Brazil Temple</name>
-    </temple>
-    <temple code="PALMY">
-      <name>Palmyra New York Temple</name>
-    </temple>
-    <temple code="PANAM">
-      <name>Panamá City Panamá Temple</name>
-    </temple>
-    <temple code="PAPEE" oldCode="TA">
-      <name>Papeete Tahiti Temple</name>
-    </temple>
-    <temple code="PARIS">
-      <name>Paris France Temple</name>
-    </temple>
-    <temple code="PAYSO">
-      <name>Payson Utah Temple</name>
-    </temple>
-    <temple code="PERTH">
-      <name>Perth Australia Temple</name>
-    </temple>
-    <temple code="PHILA">
-      <name>Philadelphia Pennsylvania Temple</name>
-    </temple>
-    <temple code="PHOEN">
-      <name>Phoenix Arizona Temple</name>
-    </temple>
-    <temple code="POFFI">
-      <name>President's Office</name>
-    </temple>
-    <temple code="PORTA">
-      <name>Port-Au-Prince Haitti Temple</name>
-    </temple>
-    <temple code="PORTL" oldCode="PT">
-      <name>Portland Oregon Temple</name>
-    </temple>
-    <temple code="PREST">
-      <name>Preston England Temple</name>
-    </temple>
-    <temple code="PROCC">
-      <name>Provo City Center Temple</name>
-    </temple>
-    <temple code="PROVO" oldCode="PV">
-      <name>Provo Utah Temple</name>
-    </temple>
-    <temple code="QUETZ">
-      <name>Quetzaltenango Guatemala Temple</name>
-    </temple>
-    <temple code="RALEI">
-      <name>Raleigh North Carolina Temple</name>
-    </temple>
-    <temple code="RECIF">
-      <name>Recife Brazil Temple</name>
-    </temple>
-    <temple code="REDLA">
-      <name>Redlands California Temple</name>
-    </temple>
-    <temple code="REGIN">
-      <name>Regina Saskatchewan Temple</name>
-    </temple>
-    <temple code="RENO">
-      <name>Reno Nevada Temple</name>
-    </temple>
-    <temple code="REXBU">
-      <name>Rexburg Idaho Temple</name>
-    </temple>
-    <temple code="RIODE">
-      <name>Rio De Janiero Temple</name>
-    </temple>
-    <temple code="ROMEI">
-      <name>Rome Italy Temple</name>
-    </temple>
-    <temple code="SACRA">
-      <name>Sacramento California Temple</name>
-    </temple>
-    <temple code="SANSA">
-      <name>San Salvador El Salvador Temple</name>
-    </temple>
-    <temple code="SANTI" oldCode="SN">
-      <name>Santiago Chile Temple</name>
-    </temple>
-    <temple code="SANTO">
-      <name>San Antonio Texas Temple</name>
-    </temple>
-    <temple code="SAPPO">
-      <name>Sapporo Japan Temple</name>
-    </temple>
-    <temple code="SDIEG" oldCode="SA">
-      <name>San Diego California Temple</name>
-    </temple>
-    <temple code="SDOMI">
-      <name>Santo Domingo Dominican Republic Temple</name>
-    </temple>
-    <temple code="SEATT" oldCode="SE">
-      <name>Seattle Washington Temple</name>
-    </temple>
-    <temple code="SEOUL" oldCode="SO">
-      <name>Seoul Korea Temple</name>
-    </temple>
-    <temple code="SGEOR" oldCode="SG">
-      <name>St. George Utah Temple</name>
-    </temple>
-    <temple code="SJOSE">
-      <name>San José Costa Rica Temple</name>
-    </temple>
-    <temple code="SLAKE" oldCode="SL">
-      <name>Salt Lake Temple</name>
-    </temple>
-    <temple code="SLOUI">
-      <name>St. Louis Missouri Temple</name>
-    </temple>
-    <temple code="SNOWF">
-      <name>Snowflake Arizona Temple</name>
-    </temple>
-    <temple code="SPAUL" oldCode="SP">
-      <name>São Paulo Brazil Temple</name>
-    </temple>
-    <temple code="SPMIN">
-      <name>St. Paul Minnesota Temple</name>
-    </temple>
-    <temple code="SPOKA">
-      <name>Spokane Washington Temple</name>
-    </temple>
-    <temple code="STARV">
-      <name>Star Valley Wyoming Temple</name>
-    </temple>
-    <temple code="STOCK" oldCode="ST">
-      <name>Stockholm Sweden Temple</name>
-    </temple>
-    <temple code="SUVA">
-      <name>Suva Fiji Temple</name>
-    </temple>
-    <temple code="SWISS" oldCode="SW">
-      <name>Bern Switzerland Temple</name>
-    </temple>
-    <temple code="SYDNE" oldCode="SD">
-      <name>Sydney Australia Temple</name>
-    </temple>
-    <temple code="TAIPE" oldCode="TP">
-      <name>Taipei Taiwan Temple</name>
-    </temple>
-    <temple code="TAMPI">
-      <name>Tampico México Temple</name>
-    </temple>
-    <temple code="TEGUC">
-      <name>Tegucigalpa Honduras Temple</name>
-    </temple>
-    <temple code="TGUTI">
-      <name>Tuxtla Gutiérrez México Temple</name>
-    </temple>
-    <temple code="TIJUA">
-      <name>Tijuana Mexico Temple</name>
-    </temple>
-    <temple code="TOKYO" oldCode="TK">
-      <name>Tokyo Japan Temple</name>
-    </temple>
-    <temple code="TORON" oldCode="TR">
-      <name>Toronto Ontario Temple</name>
-    </temple>
-    <temple code="TRUJI">
-      <name>Trujillo Peru Temple</name>
-    </temple>
-    <temple code="TWINF">
-      <name>Twin Falls Idaho Temple</name>
-    </temple>
-    <temple code="URDAN">
-      <name>Urdaneta Philippines Temple</name>
-    </temple>
-    <temple code="VANCO">
-      <name>Vancouver British Columbia Temple</name>
-    </temple>
-    <temple code="VERAC">
-      <name>Veracruz México Temple</name>
-    </temple>
-    <temple code="VERNA">
-      <name>Vernal Utah Temple</name>
-    </temple>
-    <temple code="VILLA">
-      <name>Villahermosa México Temple</name>
-    </temple>
-    <temple code="WASHI" oldCode="WA">
-      <name>Washington D.C. Temple</name>
-    </temple>
-    <temple code="WINNI">
-      <name>Winnepeg Manitoba Temple</name>
-    </temple>
-    <temple code="WINTE">
-      <name>Winter Quarters Temple</name>
-    </temple>
-  </temples>
+<?xml version="1.0" encoding="UTF-8"?>
+<temple statusCode="200" statusMessage="OK" version="1.7.20170901.0856" xmlns="http://api.familysearch.org/temple/v1" xmlns:fsapi-v1="http://api.familysearch.org/v1">
+<temples count="185">
+	<temple code="ABA">
+		<name>Aba Nigeria</name>
+	</temple>
+	<temple code="ABIJA">
+		<name>Abijan Ivory Coast</name>
+	</temple>
+	<temple code="ACCRA">
+		<name>Accra Ghana</name>
+	</temple>
+	<temple code="ADELA">
+		<name>Adelaide Australia</name>
+	</temple>
+	<temple code="ALBUQ">
+		<name>Albuquerque New Mexico</name>
+	</temple>
+	<temple code="ANCHO">
+		<name>Anchorage Alaska</name>
+	</temple>
+	<temple code="APIA" oldCode="AP">
+		<name>Apia Samoa </name>
+	</temple>
+	<temple code="AREQU">
+		<name>Arequipa Pera</name>
+	</temple>
+	<temple code="ASUNC">
+		<name>Asuncion Paraguay</name>
+	</temple>
+	<temple code="ATLAN" oldCode="AT">
+		<name>Atlanta Georgia </name>
+	</temple>
+	<temple code="BANKO">
+		<name>Bangkok Thailand</name>
+	</temple>
+	<temple code="BARRA">
+		<name>Barranquilla Columbia</name>
+	</temple>
+	<temple code="BROUG">
+		<name>Baton Rouge Louisiana</name>
+	</temple>
+	<temple code="BELEM">
+		<name>Belem Brazil</name>
+	</temple>
+	<temple code="SWISS" oldCode="SW">
+		<name>Bern Switzerland</name>
+	</temple>
+	<temple code="BILLI">
+		<name>Billings Montana</name>
+	</temple>
+	<temple code="BIRMI">
+		<name>Birmingham Alabama</name>
+	</temple>
+	<temple code="BISMA">
+		<name>Bismarck North Dakota</name>
+	</temple>
+	<temple code="BOGOT" oldCode="BG">
+		<name>Bogotá Colombia</name>
+	</temple>
+	<temple code="BOISE" oldCode="BO">
+		<name>Boise Idaho </name>
+	</temple>
+	<temple code="BOSTO">
+		<name>Boston Massachusetts  </name>
+	</temple>
+	<temple code="BOUNT">
+		<name>Bountiful Utah</name>
+	</temple>
+	<temple code="BRASI">
+		<name>Brasilia Brazil</name>
+	</temple>
+	<temple code="BRIGH">
+		<name>Brigham City Utah</name>
+	</temple>
+	<temple code="BRISB">
+		<name>Brisbane Australia</name>
+	</temple>
+	<temple code="BAIRE " oldCode="BA">
+		<name>Buenos Aires Argentina</name>
+	</temple>
+	<temple code="CALGA">
+		<name>Calgary Alberta</name>
+	</temple>
+	<temple code="CAMPI">
+		<name>Campinas Brazil</name>
+	</temple>
+	<temple code="CARAC">
+		<name>Caracas Venezuela</name>
+	</temple>
+	<temple code="ALBER" oldCode="AL">
+		<name>Cardston Alberta</name>
+	</temple>
+	<temple code="CEBUP">
+		<name>Cebu Philippines</name>
+	</temple>
+	<temple code="CEDAR">
+		<name>Cedar City Utah</name>
+	</temple>
+	<temple code="CHICA" oldCode="CH">
+		<name>Chicago Illinois</name>
+	</temple>
+	<temple code="CIUJU">
+		<name>Ciudad Juarez Mexico</name>
+	</temple>
+	<temple code="COCHA">
+		<name>Cochabamba Bolivia</name>
+	</temple>
+	<temple code="COLJU">
+		<name>Colonia Juarez Chihuahua Mexico</name>
+	</temple>
+	<temple code="CRIVE">
+		<name>Columbia River Washington</name>
+	</temple>
+	<temple code="COLSC">
+		<name>Columbia South Carolina</name>
+	</temple>
+	<temple code="COLUM">
+		<name>Columbus Ohio</name>
+	</temple>
+	<temple code="CONCE">
+		<name>Concepción Chile</name>
+	</temple>
+	<temple code="COPEN">
+		<name>Copenhagen Denmark</name>
+	</temple>
+	<temple code="CORDO">
+		<name>Córdoba Argentina</name>
+	</temple>
+	<temple code="CURIT">
+		<name>Curitiba Brazil</name>
+	</temple>
+	<temple code="DALLA" oldCode="DA">
+		<name>Dallas Texas</name>
+	</temple>
+	<temple code="DENVE" oldCode="DV">
+		<name>Denver Colorado</name>
+	</temple>
+	<temple code="DETRO">
+		<name>Detroit Michigan</name>
+	</temple>
+	<temple code="DRAPE">
+		<name>Draper Utah</name>
+	</temple>
+	<temple code="DURBA">
+		<name>Durban South Africa</name>
+	</temple>
+	<temple code="EDMON">
+		<name>Edmonton Alberta</name>
+	</temple>
+	<temple code="EHOUS" oldCode="EH">
+		<name>Endowment House</name>
+	</temple>
+	<temple code="FORTC">
+		<name>Fort Collins Colorado</name>
+	</temple>
+	<temple code="FORTL">
+		<name>Fort Lauderdale Florida</name>
+	</temple>
+	<temple code="FORTA">
+		<name>Fortaleza Brazil</name>
+	</temple>
+	<temple code="FRANK" oldCode="FR">
+		<name>Frankfurt Germany</name>
+	</temple>
+	<temple code="FREIB" oldCode="FD">
+		<name>Freiberg Germany</name>
+	</temple>
+	<temple code="FRESN">
+		<name>Fresno California</name>
+	</temple>
+	<temple code="FUKUO">
+		<name>Fukuoka Japan</name>
+	</temple>
+	<temple code="GILBE">
+		<name>Gilbert Arizona</name>
+	</temple>
+	<temple code="GUADA">
+		<name>Guadalajra Mexico</name>
+	</temple>
+	<temple code="GUATE" oldCode="GA">
+		<name>Guatemala City Guatemala</name>
+	</temple>
+	<temple code="GUAYA" oldCode="GY">
+		<name>Guayaquil Ecuador</name>
+	</temple>
+	<temple code="HALIF">
+		<name>Halifax Nova Scotia</name>
+	</temple>
+	<temple code="NZEAL" oldCode="NZ">
+		<name>Hamilton New Zealand</name>
+	</temple>
+	<temple code="HARRE">
+		<name>Harrare Zimbabwe</name>
+	</temple>
+	<temple code="HARTF">
+		<name>Hartford Connecticut</name>
+	</temple>
+	<temple code="HELSI">
+		<name>Helsinki Finland</name>
+	</temple>
+	<temple code="HERMO">
+		<name>Hermosillo Sonora Mexico</name>
+	</temple>
+	<temple code="HKONG">
+		<name>Hong Kong China</name>
+	</temple>
+	<temple code="HOUST">
+		<name>Houston Texas</name>
+	</temple>
+	<temple code="IFALL" oldCode="IF">
+		<name>Idaho Falls Idaho</name>
+	</temple>
+	<temple code="INDIA">
+		<name>Indianapolis Indiana</name>
+	</temple>
+	<temple code="JOHAN" oldCode="JO">
+		<name>Johannesburg South Africa</name>
+	</temple>
+	<temple code="JRIVE" oldCode="JR">
+		<name>Jordan River Utah</name>
+	</temple>
+	<temple code="KANSA">
+		<name>Kansas City Missouri</name>
+	</temple>
+	<temple code="KINSH">
+		<name>Kinshasa Democratic Republic Of Congo</name>
+	</temple>
+	<temple code="KONA">
+		<name>Kona Hawaii</name>
+	</temple>
+	<temple code="KYIV">
+		<name>Kyiv Ukraine</name>
+	</temple>
+	<temple code="HAWAI" oldCode="HA">
+		<name>Laie Hawaii</name>
+	</temple>
+	<temple code="LVEGA" oldCode="LV">
+		<name>Las Vegas Nevada</name>
+	</temple>
+	<temple code="LIMAO">
+		<name>Lima Peru Los Olivos</name>
+	</temple>
+	<temple code="LIMA" oldCode="LI">
+		<name>Lima Peru</name>
+	</temple>
+	<temple code="LISBO">
+		<name>Lisbon Portugal</name>
+	</temple>
+	<temple code="LOGAN" oldCode="LG">
+		<name>Logan Utah</name>
+	</temple>
+	<temple code="LONDO" oldCode="LD">
+		<name>London England</name>
+	</temple>
+	<temple code="LANGE" oldCode="LA">
+		<name>Los Angeles California</name>
+	</temple>
+	<temple code="LOUIS">
+		<name>Louisville Kentucky</name>
+	</temple>
+	<temple code="LUBBO">
+		<name>Lubbock Texas</name>
+	</temple>
+	<temple code="MADRI">
+		<name>Madrid Spain</name>
+	</temple>
+	<temple code="MANAU">
+		<name>Manaus Brazil</name>
+	</temple>
+	<temple code="MANHA">
+		<name>Manhattan New York</name>
+	</temple>
+	<temple code="MANIL" oldCode="MA">
+		<name>Manila Philippines</name>
+	</temple>
+	<temple code="MANTI" oldCode="MT">
+		<name>Manti Utah</name>
+	</temple>
+	<temple code="MEDFO">
+		<name>Medford Oregon</name>
+	</temple>
+	<temple code="MELBO">
+		<name>Melbourne Australia</name>
+	</temple>
+	<temple code="MEMPH">
+		<name>Memphis Tennessee</name>
+	</temple>
+	<temple code="MERID">
+		<name>Mérida Mexico</name>
+	</temple>
+	<temple code="MIDAH">
+		<name>Meridian Idaho</name>
+	</temple>
+	<temple code="ARIZO" oldCode="AZ">
+		<name>Mesa Arizona</name>
+	</temple>
+	<temple code="MEXIC" oldCode="MX">
+		<name>Mexico City Mexico</name>
+	</temple>
+	<temple code="MONTE">
+		<name>Monterrey Mexico</name>
+	</temple>
+	<temple code="MNTVD">
+		<name>Montevideo Uruguay</name>
+	</temple>
+	<temple code="MONTI">
+		<name>Monticello Utah</name>
+	</temple>
+	<temple code="MONTR">
+		<name>Montreal Quebec</name>
+	</temple>
+	<temple code="MTIMP">
+		<name>Mount Timpanogos Utah </name>
+	</temple>
+	<temple code="NAIRO">
+		<name>Nairobi Kenya</name>
+	</temple>
+	<temple code="NASHV">
+		<name>Nashville Tennessee</name>
+	</temple>
+	<temple code="NAUVO">
+		<name>Nauvoo</name>
+	</temple>
+	<temple code="NAUV2">
+		<name>Nauvoo Illinois</name>
+	</temple>
+	<temple code="NBEAC">
+		<name>Newport Beach California</name>
+	</temple>
+	<temple code="NUKUA" oldCode="TG">
+		<name>Nuku'Alofa Tonga</name>
+	</temple>
+	<temple code="OAKLA" oldCode="OK">
+		<name>Oakland California</name>
+	</temple>
+	<temple code="OAXAC">
+		<name>Oaxaca Mexico</name>
+	</temple>
+	<temple code="OGDEN" oldCode="OG">
+		<name>Ogden Utah</name>
+	</temple>
+	<temple code="OKLAH">
+		<name>Oklahoma City Oklahoma</name>
+	</temple>
+	<temple code="OQUIR">
+		<name>Oquirrh Mountain Utah</name>
+	</temple>
+	<temple code="ORLAN">
+		<name>Orlando Florida </name>
+	</temple>
+	<temple code="OTHER">
+		<name>Other</name>
+	</temple>
+	<temple code="PALMY">
+		<name>Palmyra New York</name>
+	</temple>
+	<temple code="PANAM">
+		<name>Panama City Panama</name>
+	</temple>
+	<temple code="PAPEE" oldCode="TA">
+		<name>Papeete Tahiti</name>
+	</temple>
+	<temple code="PARIS">
+		<name>Paris France</name>
+	</temple>
+	<temple code="PAYSO">
+		<name>Payson Utah</name>
+	</temple>
+	<temple code="PERTH">
+		<name>Perth Australia</name>
+	</temple>
+	<temple code="PHILA">
+		<name>Philadelphia Pennsylvania</name>
+	</temple>
+	<temple code="PHOEN">
+		<name>Phoenix Arizona</name>
+	</temple>
+	<temple code="POCAT">
+		<name>Pocatelo Idaho</name>
+	</temple>
+	<temple code="PORTA">
+		<name>Port-Au-Prince Haitti</name>
+	</temple>
+	<temple code="PORTL" oldCode="PT">
+		<name>Portland Oregon</name>
+	</temple>
+	<temple code="PALEG">
+		<name>Porto Alegre Brazil</name>
+	</temple>
+	<temple code="POFFI">
+		<name>President'S Office</name>
+	</temple>
+	<temple code="PREST ">
+		<name>Preston England </name>
+	</temple>
+	<temple code="PROCC" oldCode="PV">
+		<name>Provo City Center</name>
+	</temple>
+	<temple code="PROVO">
+		<name>Provo Utah</name>
+	</temple>
+	<temple code="QUETZ">
+		<name>Quetzaltenango Guatemala</name>
+	</temple>
+	<temple code="QUITO">
+		<name>Quito Ecuador</name>
+	</temple>
+	<temple code="RALEI">
+		<name>Raleigh North Carolina</name>
+	</temple>
+	<temple code="RECIF">
+		<name>Recife Brazil</name>
+	</temple>
+	<temple code="REDLA">
+		<name>Redlands California</name>
+	</temple>
+	<temple code="REGIN">
+		<name>Regina Saskatchewan</name>
+	</temple>
+	<temple code="RENO">
+		<name>Reno Nevada</name>
+	</temple>
+	<temple code="RIODE">
+		<name>Rio De Janiero</name>
+	</temple>
+	<temple code="REXBU">
+		<name>Rexburg Idaho</name>
+	</temple>
+	<temple code="ROMEI">
+		<name>Rome Italy</name>
+	</temple>
+	<temple code="SACRA">
+		<name>Sacramento California</name>
+	</temple>
+	<temple code="SLAKE" oldCode="SL">
+		<name>Salt Lake</name>
+	</temple>
+	<temple code="SANTO">
+		<name>San Antonio Texas</name>
+	</temple>
+	<temple code="SDIEG" oldCode="SD">
+		<name>San Diego California</name>
+	</temple>
+	<temple code="SJOSE">
+		<name>San Jose Costa Rica</name>
+	</temple>
+	<temple code="SANSA">
+		<name>San Salvador El Salvador</name>
+	</temple>
+	<temple code="SANTI " oldCode="SN">
+		<name>Santiago Chile</name>
+	</temple>
+	<temple code="SDOMI">
+		<name>Santo Domingo Dom. Rep.</name>
+	</temple>
+	<temple code="SPAUL" oldCode="SP">
+		<name>Sao Paulo Brazil</name>
+	</temple>
+	<temple code="SARAT">
+		<name>Saratoga Springs Utah</name>
+	</temple>
+	<temple code="SAPPO">
+		<name>Sapporo Japan</name>
+	</temple>
+	<temple code="SEATT" oldCode="SE">
+		<name>Seattle Washington</name>
+	</temple>
+	<temple code="SEOUL" oldCode="SO">
+		<name>Seoul South Korea</name>
+	</temple>
+	<temple code="SNOWF">
+		<name>Snowflake Arizona</name>
+	</temple>
+	<temple code="SPOKA">
+		<name>Spokane Washington</name>
+	</temple>
+	<temple code="SGEOR" oldCode="SG">
+		<name>St. George Utah</name>
+	</temple>
+	<temple code="SLOUI ">
+		<name>St. Louis Missouri</name>
+	</temple>
+	<temple code="SPMIN">
+		<name>St. Paul Minnesota</name>
+	</temple>
+	<temple code="STARV">
+		<name>Star Valley Wyoming</name>
+	</temple>
+	<temple code="STOCK" oldCode="ST">
+		<name>Stockholm Sweden</name>
+	</temple>
+	<temple code="SUVA">
+		<name>Suva Fiji</name>
+	</temple>
+	<temple code="SYDNE" oldCode="SD">
+		<name>Sydney Australia</name>
+	</temple>
+	<temple code="TAIPE" oldCode="TP">
+		<name>Taipei Taiwan</name>
+	</temple>
+	<temple code="TAMPI">
+		<name>Tampico Mexico</name>
+	</temple>
+	<temple code="TEGUC">
+		<name>Tegucigalpa Honduras</name>
+	</temple>
+	<temple code="HAGUE">
+		<name>The Hague Netherlands</name>
+	</temple>
+	<temple code="GILAV">
+		<name>The Gila Valley</name>
+	</temple>
+	<temple code="TIJUA">
+		<name>Tijuana Mexico</name>
+	</temple>
+	<temple code="TOKYO" oldCode="TK">
+		<name>Tokyo Japan</name>
+	</temple>
+	<temple code="TORON" oldCode="TR">
+		<name>Toronto Ontario </name>
+	</temple>
+	<temple code="TRUJI">
+		<name>Trujillo Peru</name>
+	</temple>
+	<temple code="TUCSO">
+		<name>Tucson Arizona</name>
+	</temple>
+	<temple code="TGUTI">
+		<name>Tuxtla Gutierrez Mexico</name>
+	</temple>
+	<temple code="TWINF">
+		<name>Twin Falls Idaho</name>
+	</temple>
+	<temple code="URDAN">
+		<name>Urdaneta Philippines</name>
+	</temple>
+	<temple code="VANCO">
+		<name>Vancouver British Columbia</name>
+	</temple>
+	<temple code="VERAC">
+		<name>Veracruz Mexico</name>
+	</temple>
+	<temple code="VERNA">
+		<name>Vernal Utah</name>
+	</temple>
+	<temple code="VILLA">
+		<name>Villahermosa Mexico</name>
+	</temple>
+	<temple code="WASHI" oldCode="WA">
+		<name>Washington D.C.</name>
+	</temple>
+	<temple code="WINNI">
+		<name>Winnipeg Manitoba</name>
+	</temple>
+	<temple code="WINTE">
+		<name>Winter Quarters Nebraska</name>
+	</temple>
+</temples>
 </temple>
