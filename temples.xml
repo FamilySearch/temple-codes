@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <temple statusCode="200" statusMessage="OK" version="1.7.20170901.0856" xmlns="http://api.familysearch.org/temple/v1" xmlns:fsapi-v1="http://api.familysearch.org/v1">
 <temples count="185">
 	<temple code="ABA">
@@ -23,7 +23,7 @@
 		<name>Apia Samoa </name>
 	</temple>
 	<temple code="AREQU">
-		<name>Arequipa Pera</name>
+		<name>Arequipa Peru</name>
 	</temple>
 	<temple code="ASUNC">
 		<name>Asuncion Paraguay</name>
@@ -31,7 +31,7 @@
 	<temple code="ATLAN" oldCode="AT">
 		<name>Atlanta Georgia </name>
 	</temple>
-	<temple code="BANKO">
+	<temple code="BANGK">
 		<name>Bangkok Thailand</name>
 	</temple>
 	<temple code="BARRA">
@@ -41,7 +41,7 @@
 		<name>Baton Rouge Louisiana</name>
 	</temple>
 	<temple code="BELEM">
-		<name>Belem Brazil</name>
+		<name>Belém Brazil</name>
 	</temple>
 	<temple code="SWISS" oldCode="SW">
 		<name>Bern Switzerland</name>
@@ -68,7 +68,7 @@
 		<name>Bountiful Utah</name>
 	</temple>
 	<temple code="BRASI">
-		<name>Brasilia Brazil</name>
+		<name>Brasília Brazil</name>
 	</temple>
 	<temple code="BRIGH">
 		<name>Brigham City Utah</name>
@@ -190,8 +190,8 @@
 	<temple code="NZEAL" oldCode="NZ">
 		<name>Hamilton New Zealand</name>
 	</temple>
-	<temple code="HARRE">
-		<name>Harrare Zimbabwe</name>
+	<temple code="HARAR">
+		<name>Harare Zimbabwe</name>
 	</temple>
 	<temple code="HARTF">
 		<name>Hartford Connecticut</name>
@@ -377,10 +377,10 @@
 		<name>Phoenix Arizona</name>
 	</temple>
 	<temple code="POCAT">
-		<name>Pocatelo Idaho</name>
+		<name>Pocatello Idaho</name>
 	</temple>
 	<temple code="PORTA">
-		<name>Port-Au-Prince Haitti</name>
+		<name>Port-Au-Prince Haiti</name>
 	</temple>
 	<temple code="PORTL" oldCode="PT">
 		<name>Portland Oregon</name>
@@ -391,13 +391,13 @@
 	<temple code="POFFI">
 		<name>President'S Office</name>
 	</temple>
-	<temple code="PREST ">
+	<temple code="PREST">
 		<name>Preston England </name>
 	</temple>
-	<temple code="PROCC" oldCode="PV">
+	<temple code="PROCC">
 		<name>Provo City Center</name>
 	</temple>
-	<temple code="PROVO">
+	<temple code="PROVO" oldCode="PV">
 		<name>Provo Utah</name>
 	</temple>
 	<temple code="QUETZ">
@@ -421,11 +421,11 @@
 	<temple code="RENO">
 		<name>Reno Nevada</name>
 	</temple>
-	<temple code="RIODE">
-		<name>Rio De Janiero</name>
-	</temple>
 	<temple code="REXBU">
 		<name>Rexburg Idaho</name>
+	</temple>
+	<temple code="RIODE">
+		<name>Rio De Janeiro Brazil</name>
 	</temple>
 	<temple code="ROMEI">
 		<name>Rome Italy</name>

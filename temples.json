@@ -1,4 +1,4 @@
-{
+﻿{
     "statusCode": 200,
     "statusMessage": "OK",
     "version": "1.7.20170901.0856",
@@ -36,7 +36,7 @@
         },
         {
           "code": "AREQU",
-          "name": "Arequipa Pera"
+          "name": "Arequipa Peru"
         },
         {
           "code": "ASUNC",
@@ -48,7 +48,7 @@
           "name": "Atlanta Georgia "
         },
         {
-          "code": "BANKO",
+          "code": "BANGK",
           "name": "Bangkok Thailand"
         },
         {
@@ -61,7 +61,7 @@
         },
         {
           "code": "BELEM",
-          "name": "Belem Brazil"
+          "name": "Belém Brazil"
         },
         {
           "code": "SWISS",
@@ -100,7 +100,7 @@
         },
         {
           "code": "BRASI",
-          "name": "Brasilia Brazil"
+          "name": "Brasília Brazil"
         },
         {
           "code": "BRIGH",
@@ -274,8 +274,8 @@
           "name": "Hamilton New Zealand"
         },
         {
-          "code": "HARRE",
-          "name": "Harrare Zimbabwe"
+          "code": "HARAR",
+          "name": "Harare Zimbabwe"
         },
         {
           "code": "HARTF",
@@ -540,11 +540,11 @@
         },
         {
           "code": "POCAT",
-          "name": "Pocatelo Idaho"
+          "name": "Pocatello Idaho"
         },
         {
           "code": "PORTA",
-          "name": "Port-Au-Prince Haitti"
+          "name": "Port-Au-Prince Haiti"
         },
         {
           "code": "PORTL",
@@ -564,12 +564,12 @@
           "name": "Preston England "
         },
         {
-          "code": "PROCC",
-          "oldCode": "PV",
+          "code": "PROCC",   
           "name": "Provo City Center"
         },
         {
           "code": "PROVO",
+	  "oldCode": "PV",
           "name": "Provo Utah"
         },
         {
@@ -601,12 +601,12 @@
           "name": "Reno Nevada"
         },
         {
-          "code": "RIODE",
-          "name": "Rio De Janiero"
-        },
-        {
           "code": "REXBU",
           "name": "Rexburg Idaho"
+        },
+        {
+          "code": "RIODE",
+          "name": "Rio De Janeiro Brazil"
         },
         {
           "code": "ROMEI",
