@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <temple statusCode="200" statusMessage="OK" version="1.7.20170901.0856" xmlns="http://api.familysearch.org/temple/v1" xmlns:fsapi-v1="http://api.familysearch.org/v1">
 <temples count="185">
 	<temple code="ABA">
@@ -20,7 +20,7 @@
 		<name>Anchorage Alaska</name>
 	</temple>
 	<temple code="APIA" oldCode="AP">
-		<name>Apia Samoa </name>
+		<name>Apia Samoa</name>
 	</temple>
 	<temple code="AREQU">
 		<name>Arequipa Peru</name>
@@ -29,7 +29,7 @@
 		<name>Asuncion Paraguay</name>
 	</temple>
 	<temple code="ATLAN" oldCode="AT">
-		<name>Atlanta Georgia </name>
+		<name>Atlanta Georgia</name>
 	</temple>
 	<temple code="BANGK">
 		<name>Bangkok Thailand</name>
@@ -59,10 +59,10 @@
 		<name>Bogotá Colombia</name>
 	</temple>
 	<temple code="BOISE" oldCode="BO">
-		<name>Boise Idaho </name>
+		<name>Boise Idaho</name>
 	</temple>
 	<temple code="BOSTO">
-		<name>Boston Massachusetts  </name>
+		<name>Boston Massachusetts</name>
 	</temple>
 	<temple code="BOUNT">
 		<name>Bountiful Utah</name>
@@ -76,7 +76,7 @@
 	<temple code="BRISB">
 		<name>Brisbane Australia</name>
 	</temple>
-	<temple code="BAIRE " oldCode="BA">
+	<temple code="BAIRE" oldCode="BA">
 		<name>Buenos Aires Argentina</name>
 	</temple>
 	<temple code="CALGA">
@@ -311,7 +311,7 @@
 		<name>Montreal Quebec</name>
 	</temple>
 	<temple code="MTIMP">
-		<name>Mount Timpanogos Utah </name>
+		<name>Mount Timpanogos Utah</name>
 	</temple>
 	<temple code="NAIRO">
 		<name>Nairobi Kenya</name>
@@ -347,7 +347,7 @@
 		<name>Oquirrh Mountain Utah</name>
 	</temple>
 	<temple code="ORLAN">
-		<name>Orlando Florida </name>
+		<name>Orlando Florida</name>
 	</temple>
 	<temple code="OTHER">
 		<name>Other</name>
@@ -392,7 +392,7 @@
 		<name>President'S Office</name>
 	</temple>
 	<temple code="PREST">
-		<name>Preston England </name>
+		<name>Preston England</name>
 	</temple>
 	<temple code="PROCC">
 		<name>Provo City Center</name>
@@ -448,7 +448,7 @@
 	<temple code="SANSA">
 		<name>San Salvador El Salvador</name>
 	</temple>
-	<temple code="SANTI " oldCode="SN">
+	<temple code="SANTI" oldCode="SN">
 		<name>Santiago Chile</name>
 	</temple>
 	<temple code="SDOMI">
@@ -478,7 +478,7 @@
 	<temple code="SGEOR" oldCode="SG">
 		<name>St. George Utah</name>
 	</temple>
-	<temple code="SLOUI ">
+	<temple code="SLOUI">
 		<name>St. Louis Missouri</name>
 	</temple>
 	<temple code="SPMIN">
@@ -518,7 +518,7 @@
 		<name>Tokyo Japan</name>
 	</temple>
 	<temple code="TORON" oldCode="TR">
-		<name>Toronto Ontario </name>
+		<name>Toronto Ontario</name>
 	</temple>
 	<temple code="TRUJI">
 		<name>Trujillo Peru</name>
