@@ -1,4 +1,4 @@
-﻿{
+{
     "statusCode": 200,
     "statusMessage": "OK",
     "version": "1.7.20170901.0856",
@@ -564,7 +564,7 @@
           "name": "Preston England "
         },
         {
-          "code": "PROCC",   
+          "code": "PROCC",
           "name": "Provo City Center"
         },
         {
