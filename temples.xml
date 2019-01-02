@@ -176,7 +176,7 @@
 		<name>Gilbert Arizona</name>
 	</temple>
 	<temple code="GUADA">
-		<name>Guadalajra Mexico</name>
+		<name>Guadalajara Mexico</name>
 	</temple>
 	<temple code="GUATE" oldCode="GA">
 		<name>Guatemala City Guatemala</name>
@@ -224,7 +224,7 @@
 		<name>Kansas City Missouri</name>
 	</temple>
 	<temple code="KINSH">
-		<name>Kinshasa Democratic Republic Of Congo</name>
+		<name>Kinshasa Democratic Republic of the Congo</name>
 	</temple>
 	<temple code="KONA">
 		<name>Kona Hawaii</name>
@@ -329,7 +329,7 @@
 		<name>Newport Beach California</name>
 	</temple>
 	<temple code="NUKUA" oldCode="TG">
-		<name>Nuku'Alofa Tonga</name>
+		<name>Nuku'alofa Tonga</name>
 	</temple>
 	<temple code="OAKLA" oldCode="OK">
 		<name>Oakland California</name>
@@ -389,7 +389,7 @@
 		<name>Porto Alegre Brazil</name>
 	</temple>
 	<temple code="POFFI">
-		<name>President'S Office</name>
+		<name>President's Office</name>
 	</temple>
 	<temple code="PREST">
 		<name>Preston England</name>
